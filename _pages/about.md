@@ -2,15 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>R & D Engineer</a>. imec, Leuven.
 
 profile:
   align: right
   image: vkp.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-  <p>pc: by Bismiya Fasni (great photographor) - merci Bismiya!</p>
- #   <p>555 your office number</p>
+    <p>by Bismiya Fasni (great photographor)</p>
   #  <p>123 your address street</p>
    # <p>Your City, State 12345</p>
 
