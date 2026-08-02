@@ -9,7 +9,7 @@ profile:
   image: vkp.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>by Bismiya Fasni (great photographor)</p>
+ # <p>by Bismiya Fasni (great photographor)</p>
   #  <p>123 your address street</p>
    # <p>Your City, State 12345</p>
 
