@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I joined the CINaM–CNRS laboratory in Marseille, France, to pursue my Ph.D. under the supervision of Dr. Lionel Santinacci. http://lionel.santinacci.free.fr/
