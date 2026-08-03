@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-I joined @imec as an R & D Engineer :sparkles: :smile:
+I joined @imec as an R&D Engineer. Excited to contribute to next-generation semiconductor research!
 
 
