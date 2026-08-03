@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I successfully defended my Ph.D. in Physics & Materials Science at Aix-Marseille University. Grateful to everyone who supported me throughout this journey!
+I successfully defended my Ph.D. in Physics & Materials Science at [Aix-Marseille University](https://www.univ-amu.fr/en). Grateful to everyone who supported me throughout this journey!
