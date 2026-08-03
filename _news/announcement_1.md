@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I joined the CINaM–CNRS laboratory in Marseille, France, to pursue my Ph.D. under the supervision of [Dr. Lionel Santinacci](http://lionel.santinacci.free.fr/). Looking forward to an exciting research journey in materials science and atomic layer deposition.
+I joined the [CINaM–CNRS laboratory](https://www.cinam.univ-mrs.fr/cinam/en/ ) in Marseille, France, to pursue my Ph.D. under the supervision of [Dr. Lionel Santinacci](http://lionel.santinacci.free.fr/). Looking forward to an exciting research journey in materials science and atomic layer deposition.
