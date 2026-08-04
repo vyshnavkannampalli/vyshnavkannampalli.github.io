@@ -29,5 +29,7 @@ latest_posts:
 
 Hello!👋 
 
-I'm Vyshnav Kannampalli, an R&D Engineer at [imec](https://www.imec-int.com/en/about-us) in Leuven, Belgium, where I contribute to the development of advanced dielectric materials and gate-stack technologies for next-generation semiconductor devices. My research focuses on understanding and engineering materials at the atomic scale to enable the future of microelectronics. I specialize in [Atomic Layer Deposition (ALD)](https://en.wikipedia.org/wiki/Atomic_layer_deposition), plasma-enhanced ALD (PEALD), thin-film characterization, and process optimization, with a passion for translating fundamental materials science into innovative semiconductor technologies.
+I'm Vyshnav Kannampalli, an R&D Engineer at [imec](https://www.imec-int.com/en/about-us) in Leuven, Belgium, where I contribute to the development of advanced dielectric materials and gate-stack technologies for next-generation semiconductor devices. My research focuses on understanding and engineering materials at the atomic scale to enable the future of microelectronics. 
+
+I specialize in [Atomic Layer Deposition (ALD)](https://en.wikipedia.org/wiki/Atomic_layer_deposition), plasma-enhanced ALD (PEALD), thin-film characterization, and process optimization, with a passion for translating fundamental materials science into innovative semiconductor technologies.
 
