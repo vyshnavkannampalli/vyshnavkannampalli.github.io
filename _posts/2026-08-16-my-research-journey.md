@@ -2,7 +2,7 @@
 layout: post
 title: My Research Journey Across Three Countries
 date: 2026-08-16
-description: From Kerala to France to Belgium, a journey through science, materials research, and semiconductor technology.
+description: A personal journey through science and research
 thumbnail: /assets/img/Research_path_900px.png
 featured: false
 tags: [research, semiconductors, ALD, career]
