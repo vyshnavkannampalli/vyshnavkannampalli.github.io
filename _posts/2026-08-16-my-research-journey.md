@@ -3,12 +3,13 @@ layout: post
 title: My Research Journey Across Three Countries
 date: 2026-08-16
 description: From Kerala to France to Belgium, a journey through science, materials research, and semiconductor technology.
-thumbnail: /assets/img/Research_path.png
+thumbnail: /assets/img/Research_path_900px.png
 featured: true
 tags: [research, semiconductors, ALD, career]
 categories: [research]
 ---
-/assets/img/Research_path.png
+![Research Journey](/assets00px.png
+``
 
 
 When I first stepped into a chemistry laboratory as an undergraduate student in India, I never imagined that my journey would eventually lead me to some of Europe's most advanced research environments. Today, as an R&D Engineer at imec in Belgium, I work on semiconductor technologies and advanced materials, but the path here has been anything but straightforward.
