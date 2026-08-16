@@ -8,7 +8,8 @@ featured: true
 tags: [research, semiconductors, ALD, career]
 categories: [research]
 ---
-<img src="/assets/img/Research_path_900px.png" alt="Research Journey"
+
+[Research Journey](/assets/img/Research_path_900px.png)
 
 
 When I first stepped into a chemistry laboratory as an undergraduate student in India, I never imagined that my journey would eventually lead me to some of Europe's most advanced research environments. Today, as an R&D Engineer at imec in Belgium, I work on semiconductor technologies and advanced materials, but the path here has been anything but straightforward.
