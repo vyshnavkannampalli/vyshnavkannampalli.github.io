@@ -10,7 +10,11 @@ categories: [research]
 
 ---
 
-/assets/img/Research_path.png
+<p align="center">
+2
+<imgets/img/Research_path.png
+3
+</p>
 
 When I first stepped into a chemistry laboratory as an undergraduate student in India, I never imagined that my journey would eventually lead me to some of Europe's most advanced research environments. Today, as an R&D Engineer at imec in Belgium, I work on semiconductor technologies and advanced materials, but the path here has been anything but straightforward.
 
