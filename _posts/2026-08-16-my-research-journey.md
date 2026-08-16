@@ -25,13 +25,13 @@ I was born and raised in Kerala, India, a place known for its rich culture, educ
 
 That curiosity eventually led me to pursue a BS-MS Dual Degree in Chemistry at the Indian Institute of Science Education and Research (IISER) Bhopal. During these years, I was exposed to a broad scientific foundation, ranging from chemistry and physics to materials science.
 
-What started as an interest in chemistry slowly evolved into a fascination with materials and nanotechnology. I became increasingly interested in how we can design materials at the atomic scale to solve real-world problems, particularly in energy and electronics.
+What started as an interest in chemistry slowly evolved into a fascination with materials and nanotechnology. I became increasingly interested in how we can design materials at the atomic scale to solve real-world problems, particularly in energy sectors.
 
 ## Discovering Research
 
-One of the defining moments of my academic journey came during my research projects and internships. Working in laboratories taught me that science is not simply about finding answers. It is about learning how to ask the right questions.
+One of the defining moments of my academic journey came during my research projects and internships. Working in laboratories taught me that science is not simply about finding answers. It is about learning how to ask the right questions (still I am learning in my day to day life!!).
 
-My master's research focused on titanium dioxide nanomaterials and their photocatalytic applications. It was my first taste of independent research, where experiments often failed, results were unpredictable, and patience became as important as knowledge.
+My master's research focused on titanium dioxide nanomaterials and their photocatalytic applications. It was my first taste of independent research, where experiments often failed, results were unpredictable, and patience became as important as knowledge - and my main motive was to understand the key concept of this research and how can we get better understandings and information about this system through different characterization techniques.
 
 These experiences convinced me that I wanted to pursue research as a career.
 
@@ -47,7 +47,7 @@ At the same time, it opened doors to incredible opportunities.
 
 My doctoral research focused on Atomic Layer Deposition (ALD) of nickel oxide thin films for photoelectrochemical water splitting applications. The work involved developing ALD processes using novel precursors, understanding thin film growth mechanisms, and studying how deposition conditions influence material properties and device performance.
 
-During this period, I gained extensive experience with thin-film synthesis and characterization techniques, including XPS, XRD, SEM, TEM, AFM, SIMS, and electrical measurements.
+During this period, I gained extensive experience with thin-film synthesis and characterization techniques, including XPS, XRD, SEM, TEM, AFM, SIMS, optical, electrical, and photo-electrochemical measurements.
 
 More importantly, I learned how research really works.
 
