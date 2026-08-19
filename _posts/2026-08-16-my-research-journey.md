@@ -3,13 +3,13 @@ layout: post
 title: My Research Journey Across Three Countries
 date: 2026-08-16
 description: A personal journey through science and research
-thumbnail: /assets/img/Research_path_900px.png
+thumbnail: /assets/img/Research_path.png
 featured: false
 tags: [research, semiconductors, ALD, career]
 categories: [research]
 ---
 {% include figure.liquid
-path="assets/img/Research_path_900px.png"
+path="assets/img/Research_path.png"
 class="img-fluid rounded z-depth-1"
 zoomable=true
 %}
